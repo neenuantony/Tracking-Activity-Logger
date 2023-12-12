@@ -1,0 +1,9 @@
+2023-12-11 19:00:38: Started the application
+2023-12-11 19:00:38: Performed some action
+2023-12-11 19:00:38: Finished the process
+2023-12-11 19:04:13.853421: Started the application
+2023-12-11 19:04:13.853421: Performed some action
+2023-12-11 19:04:13.853421: Finished the process
+Started the application : 2023-12-11 19:05:51
+Performed some action : 2023-12-11 19:05:51
+Finished the process : 2023-12-11 19:05:51
